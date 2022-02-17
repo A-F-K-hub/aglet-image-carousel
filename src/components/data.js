@@ -1,3 +1,4 @@
+//videos
 import video1 from "../components/Videos/video-1.mp4";
 import video2 from "../components/Videos/video-2.mp4";
 import video3 from "../components/Videos/video-3.mp4";
